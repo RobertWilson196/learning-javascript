@@ -31,3 +31,11 @@ console.log(aNumber, anotherNumber);
 console.log("What is the type of aNumber?: ", typeof aNumber);
 console.log("What is the type of anotherNumber?: ", typeof anotherNumber);
 
+console.log(".~-^-~.~-^-~.~-^-~.~-^-~.~-^-~.");
+ // Arrays
+const anArray = [1, 2, 3, 4];
+const aStringArray = ["Cheese", "Bacon", "Eggs"];
+console.log("anArray: ", anArray);
+console.log("aStringArray: ", aStringArray);
+console.log("How many elements are in anArray?: ", anArray.length);
+console.log("What is the type of anArray?: ", typeof anArray);
